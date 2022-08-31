@@ -10,6 +10,9 @@ int main()
     int b = 20;
     int c = a*b;
     cout<<"result is : "<<c;
+    //create a vector multiplication
+
+
 
     return 0;
 }
